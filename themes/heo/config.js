@@ -23,7 +23,7 @@ const CONFIG = {
   HEO_HERO_TITLE_2: '与避坑记录',
   HEO_HERO_TITLE_3: 'cbyer.eu.org',
   HEO_HERO_TITLE_4: '最新文章',
-  HEO_HERO_TITLE_5: 'NotionNext4.0 轻松定制主题',
+  HEO_HERO_TITLE_5: '点击右侧展示最新文章',
   HEO_HERO_TITLE_LINK: 'https://cbyer.eu.org',
   // 英雄区遮罩文字
   HEO_HERO_COVER_TITLE: '随便逛逛',
