@@ -20,7 +20,7 @@ const CONFIG = {
 
   // 英雄区(首页顶部大卡)
   HEO_HERO_TITLE_1: '分享小白折腾',
-  HEO_HERO_TITLE_2: '与闭坑记录',
+  HEO_HERO_TITLE_2: '与避坑记录',
   HEO_HERO_TITLE_3: 'cbyer.eu.org',
   HEO_HERO_TITLE_4: '最新文章',
   HEO_HERO_TITLE_5: 'NotionNext4.0 轻松定制主题',
